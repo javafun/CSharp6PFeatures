@@ -1,0 +1,5 @@
+c:\dev\playground\CSharp6NewFeatures\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+c:\dev\playground\CSharp6NewFeatures\UnitTest\bin\Debug\UnitTest.dll
+c:\dev\playground\CSharp6NewFeatures\UnitTest\bin\Debug\UnitTest.pdb
+c:\dev\playground\CSharp6NewFeatures\UnitTest\obj\Debug\UnitTest.dll
+c:\dev\playground\CSharp6NewFeatures\UnitTest\obj\Debug\UnitTest.pdb
